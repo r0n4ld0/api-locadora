@@ -16,7 +16,7 @@
  
  
 ### Documentação da API disponível no link abaixo:
-<a href="https://drive.google.com/file/d/1YcbZMxPqGGaXXafOS7ADz5VsLA42mC3j/view?usp=sharing">Link documentação</a>
+<a target="_blank" href="https://drive.google.com/file/d/1YcbZMxPqGGaXXafOS7ADz5VsLA42mC3j/view?usp=sharing">Link documentação</a>
  
 ## Clonar repositório
  
