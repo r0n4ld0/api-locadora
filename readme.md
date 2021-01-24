@@ -61,5 +61,5 @@ URL padrão da apliação é: *http://localhost:3000*
 + GET Todos os filmes disponíveis.
 
 ```
-Envia requisição GET para http://localhost:3000/movies
+Enviar uma requisição GET para: http://localhost:3000/movies
 ```
